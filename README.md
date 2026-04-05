@@ -1,7 +1,7 @@
-# 📊 Unemployment Rate Prediction (India)
+# 📊 Unemployment Rate Prediction Project
 
 ## 🚀 Project Overview
-This project performs an end-to-end data science pipeline to analyze and predict unemployment rates using real-world data.
+This project focuses on predicting unemployment rates using Machine Learning techniques. It includes complete data analysis, preprocessing, and model building.
 
 ---
 
