@@ -123,12 +123,10 @@ The following models were implemented:
 
 ## 📊 Visualizations
 
-*Add your graphs here for better understanding:*
+<img width="1284" height="716" alt="region" src="https://github.com/user-attachments/assets/fdeb10a6-3a93-46ce-959f-c20459aac864" />
+<img width="738" height="541" alt="un" src="https://github.com/user-attachments/assets/fd946a52-b057-4187-b3a9-4e458b3e7183" />
 
-```markdown
-![Heatmap](images/heatmap.png)
-![Feature Importance](images/feature_importance.png)
-```
+
 
 ---
 
